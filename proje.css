@@ -1,0 +1,73 @@
+.menu {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: rgb(98, 0, 255);
+    text-decoration: none;
+    font-size: 20px;
+    height: 30px;
+    width: 20%;
+    background-color: aqua;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    
+    
+    
+}
+
+
+.ust {
+    height: 170px;
+    width: 100%;
+}
+
+.yazi {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+   
+}
+
+.bosluk {
+   height: 50px;
+   width: 100%;
+
+}
+
+.baslik {
+    color: yellow;
+    font-size: 35px;
+    text-align: center;
+    
+}
+ 
+.bosluk2 {
+    height: 30px;
+    width: 100%;
+ 
+ }
+
+.kucukbaslik {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(247, 224, 194);
+}
+
+.interstellar {
+    text-align: center;
+}
+ 
+.giris {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(247, 224, 194);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bosluk3 {
+    height: 250px;
+    width: 100%;
+}
